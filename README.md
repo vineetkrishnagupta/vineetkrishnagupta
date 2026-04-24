@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vineet Krishna Gupta
 
-🚀 Full Stack Developer | React | Node.js | POS Systems
+🚀 Full Stack Developer | React | Node.js | REST APIs | System Design   
 
 ---
 
