@@ -6,46 +6,57 @@
 
 ## 👨‍💻 About Me
 
-* 💼 I am a Full Stack Developer with experience in building scalable web applications
-* ⚛️ Skilled in React, Node.js, and modern JavaScript frameworks
-* 🍽️ Working on POS systems with real-time inventory & order management
-* 📍 Based in India
+Full Stack Developer with 3+ years of experience building scalable and high-performance web applications using React, Node.js, and modern technologies.
+
+Expertise in REST API development, database design, and performance optimization. Focused on delivering clean, efficient, and user-centric solutions that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* Frontend: React, JavaScript, HTML, CSS, Bootstrap
-* Backend: Node.js, Express
-* Database: MySQL, SQLite
-* Tools: Git, VS Code, Postman
+### 💻 Languages
 
----
+JavaScript (ES6+), Java, C, C++, Python, PHP
 
-## 🚀 Projects
+### 🎨 Frontend
 
-### 🔹 POS System
+React.js, Ionic, HTML5, CSS3, Bootstrap 5, Tailwind CSS
 
-* Restaurant management system with cart, variants & addons
-* Real-time billing, GST & order tracking
+### ⚙️ Backend
 
-### 🔹 E-Book App
+Node.js, Express.js, Laravel, Flask, Django
 
-* Bookmark system
-* Last-read tracking
-* Clean UI/UX
+### 🗄️ Databases
+
+MySQL, PostgreSQL, Supabase, MongoDB
+
+### 📚 Core Concepts
+
+DSA, OOP, Operating Systems, Networking, Security
+
+### 📱 Mobile / Hybrid
+
+Ionic & Capacitor (Filesystem, SQLite), React Native (CLI), Electron.js
+
+### 🧰 Tools
+
+Git, Postman, VS Code, Axios, cPanel, SFTP
+
+### 🔐 Other Skills
+
+REST APIs, JWT Authentication, SDLC, Software Testing, Performance Optimization
 
 ---
 
 ## 📊 GitHub Stats
 
-![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vineetkrishnagupta\&show_icons=true)
 
 ---
 
 ## 🌐 Connect with Me
 
-* 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK
+* 🔗 LinkedIn: https://linkedin.com/in/vineet-krishna-gupta-6989a5209
 * 💻 GitHub: https://github.com/vineetkrishnagupta
 
 ---
