@@ -85,7 +85,7 @@ Expertise in REST API development, database design, and performance optimization
 
 * 🔗 LinkedIn: https://linkedin.com/in/vineet-krishna-gupta-6989a5209
 * 💻 GitHub: https://github.com/vineetkrishnagupta
-* 🌍 Portfolio: https://vineet-krishna-gupta.vercel.app/
+* 🌍 Portfolio: https://vineet-krishna-gupta.vercel.app
 
 ---
 
