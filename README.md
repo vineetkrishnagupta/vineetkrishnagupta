@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Developer with 3+ years of experience building scalable and high-performance web applications using React, Node.js, and modern technologies.
+Full Stack Developer with 4+ years of experience building scalable and high-performance web applications using React, Node.js, and modern technologies.
 
 Expertise in REST API development, database design, and performance optimization. Focused on delivering clean, efficient, and user-centric solutions that solve real-world problems.
 
