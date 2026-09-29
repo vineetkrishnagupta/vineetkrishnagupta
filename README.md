@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vineet Krishna Gupta
+# 👋 Hi, I'm Vineet 
 
 🚀 Full Stack Developer | React | Node.js | REST APIs | System Design   
 
